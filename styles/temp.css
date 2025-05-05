@@ -90,7 +90,7 @@ main {
 .project {
     padding: 2.3rem;
     border: solid rgba(255, 255, 255, 0.2) 1px;
-    box-shadow: inset 0px 0px 10px 0px rgba(255, 255, 255, 0.3), 0px 0px 2px 0px rgba(255, 255, 255, 0.4);;
+    box-shadow: inset 0px 0px 10px 0px rgba(255, 255, 255, 0.3), 0px 0px 2px 0px rgba(255, 255, 255, 0.4);
     border-radius: 1rem;
     min-width: none;
     backdrop-filter: blur(2px);
